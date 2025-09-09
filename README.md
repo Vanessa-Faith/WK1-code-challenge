@@ -17,7 +17,7 @@ Git
 
 ### Installation instruction
 ```
-Git clone 
+Git clone git@github.com:Vanessa-Faith/WK1-code-challenge.git
 
 ```
 
@@ -25,17 +25,15 @@ Git clone
 [Git](gh-pages link)
 
 ## Technologies used
-HTML
-CSS
 Github
 Javascript
 
 ## Support and contact details
-github.com/hamida-mstafa
+github.com/Vanessa-Faith
 
 ### License
 The content of this site is licensed under the MIT license
-Copyright (c) 2018.
+Copyright (c) 2025.
 
 
 
